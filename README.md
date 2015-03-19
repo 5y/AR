@@ -1,3 +1,4 @@
-Computer Data vision.
+1- Recognize Marker
+2- Mirror Issue 
 ==
 Augmented Reality.
